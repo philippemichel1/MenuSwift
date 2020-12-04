@@ -7,6 +7,12 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		370D83D5256FEAFF0004F5E3 /* ApropsContenu.swift in Sources */ = {isa = PBXBuildFile; fileRef = 370D83D4256FEAFF0004F5E3 /* ApropsContenu.swift */; };
+		370D83D6256FEAFF0004F5E3 /* ApropsContenu.swift in Sources */ = {isa = PBXBuildFile; fileRef = 370D83D4256FEAFF0004F5E3 /* ApropsContenu.swift */; };
+		3733D33325705A4600A49734 /* BoutonFermeture.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3733D33225705A4600A49734 /* BoutonFermeture.swift */; };
+		3733D33425705A4600A49734 /* BoutonFermeture.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3733D33225705A4600A49734 /* BoutonFermeture.swift */; };
+		37CA0357256EB15A0051728E /* FenetreMenu.swift in Sources */ = {isa = PBXBuildFile; fileRef = 37CA0356256EB15A0051728E /* FenetreMenu.swift */; };
+		37CA0358256EB15A0051728E /* FenetreMenu.swift in Sources */ = {isa = PBXBuildFile; fileRef = 37CA0356256EB15A0051728E /* FenetreMenu.swift */; };
 		37E42CD1256E99810097F90A /* MontrerAproposApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 37E42CBE256E99800097F90A /* MontrerAproposApp.swift */; };
 		37E42CD2256E99810097F90A /* MontrerAproposApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 37E42CBE256E99800097F90A /* MontrerAproposApp.swift */; };
 		37E42CD3256E99810097F90A /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 37E42CBF256E99800097F90A /* ContentView.swift */; };
@@ -16,6 +22,9 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		370D83D4256FEAFF0004F5E3 /* ApropsContenu.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ApropsContenu.swift; sourceTree = "<group>"; };
+		3733D33225705A4600A49734 /* BoutonFermeture.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BoutonFermeture.swift; sourceTree = "<group>"; };
+		37CA0356256EB15A0051728E /* FenetreMenu.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FenetreMenu.swift; sourceTree = "<group>"; };
 		37E42CBE256E99800097F90A /* MontrerAproposApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MontrerAproposApp.swift; sourceTree = "<group>"; };
 		37E42CBF256E99800097F90A /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		37E42CC0256E99810097F90A /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
@@ -59,6 +68,9 @@
 			children = (
 				37E42CBE256E99800097F90A /* MontrerAproposApp.swift */,
 				37E42CBF256E99800097F90A /* ContentView.swift */,
+				3733D33225705A4600A49734 /* BoutonFermeture.swift */,
+				37CA0356256EB15A0051728E /* FenetreMenu.swift */,
+				370D83D4256FEAFF0004F5E3 /* ApropsContenu.swift */,
 				37E42CC0256E99810097F90A /* Assets.xcassets */,
 			);
 			path = Shared;
@@ -188,7 +200,10 @@
 			buildActionMask = 2147483647;
 			files = (
 				37E42CD3256E99810097F90A /* ContentView.swift in Sources */,
+				3733D33325705A4600A49734 /* BoutonFermeture.swift in Sources */,
+				37CA0357256EB15A0051728E /* FenetreMenu.swift in Sources */,
 				37E42CD1256E99810097F90A /* MontrerAproposApp.swift in Sources */,
+				370D83D5256FEAFF0004F5E3 /* ApropsContenu.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -197,7 +212,10 @@
 			buildActionMask = 2147483647;
 			files = (
 				37E42CD4256E99810097F90A /* ContentView.swift in Sources */,
+				3733D33425705A4600A49734 /* BoutonFermeture.swift in Sources */,
+				37CA0358256EB15A0051728E /* FenetreMenu.swift in Sources */,
 				37E42CD2256E99810097F90A /* MontrerAproposApp.swift in Sources */,
+				370D83D6256FEAFF0004F5E3 /* ApropsContenu.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
